@@ -6,7 +6,7 @@ import sys
 from datetime import datetime
 import pytz
 
-def location(phone_number):
+def location +16066695211
     try:
         global number,liste,country,operator,errNumber,currentTime
         number=phonenumbers.parse(phone_number,"EN")
